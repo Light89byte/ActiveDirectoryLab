@@ -35,7 +35,7 @@ In this lab, we're going to go through setting up a Windows Active Directory hom
 <p align="center">
  Check Connectivity on Client Windows 11 <br>
  
-![image alt](https://imgur.com/xHMwkBc)
+![image alt](https://github.com/Light89byte/ActiveDirectoryLab/blob/89c07cb8e321831e323363d668b8f7357f5c9833/Ping.png)
 <br />
 <br />
 
