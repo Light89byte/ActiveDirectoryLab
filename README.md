@@ -1,8 +1,9 @@
-<h1>Active Driectory Home lab</h1>
+<h1>Active Directory Home Lab</h1>
 
 
 
 <h2>Description</h2>
+Welcome!
 In this lab, we're gonna go through setting up a Windows Active Directory home lab using Oracle Virtual box. This a great introduction for beginners to understand how large-scale buiness enterprises utlize setting up different user accounts on a windows environment. Even for the veteran administrators, it will be good practice to go over this refesher course in all of its intrisic detail. Let's get started... 
 <br />
 
