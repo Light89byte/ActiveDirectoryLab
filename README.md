@@ -27,9 +27,37 @@ In this lab, we're gonna go through setting up a Windows Active Directory home l
 <br />
 
 <p align="center">
+Add Active Directory Domain Services on "Add roles and Features" Server Manager<br>
+ 
+![image_alt](https://i.imgur.com/eSh1KO3.png)
+<br />
+<br />
+
+<p align="center">
+Add internal network IP Address<br>
+
+![image_alt](https://i.imgur.com/itv77qO.png)
+<br />
+<br />
+
+<p align="center">
  Creating Users with Powershell<br>
  
 ![image alt](https://github.com/Light89byte/ActiveDirectoryLab/blob/a279c24bf5eda9a0898d14e5cc318c989b0921df/Capture.PNG)
+<br />
+<br />
+
+<p align="center">
+ Configure DHCP IP Range Scope & Subnet Mask<br>
+ 
+![image_alt](https://i.imgur.com/mHlzb4o.png)
+<br />
+<br />
+
+<p align="center">
+Add Remote Access<br>
+ 
+![image_alt](https://i.imgur.com/wfGBzuy.png)
 <br />
 <br />
 
@@ -42,12 +70,12 @@ In this lab, we're gonna go through setting up a Windows Active Directory home l
 <br />
 
 <p align="center">
-  Connect Windows Client To Domain
+  Connect Windows Client To Domain <br>
  
 ![image_alt](https://i.imgur.com/LaHYAYw.png)
 
 <p align="center">
- Check AD "Users and Computers" to see if connected
+ Check AD "Users and Computers" to see if connected<br>
  
 ![image_alt](https://i.imgur.com/CI3aTox.png)
 
@@ -55,12 +83,15 @@ In this lab, we're gonna go through setting up a Windows Active Directory home l
 <br />
 
 <p align="center">
- Sign in to "Other User" Account on Windows Client
+ Sign in to "Other User" Account on Windows Client<br>
  
 ![image_alt](https://i.imgur.com/rL9nqOY.png)
 
 <br/>
 <br/>
+
+<p align="center">
+ Congrats! You're Connected to your domain you created.<br>
 <!--
  ```diff
 - text in red
