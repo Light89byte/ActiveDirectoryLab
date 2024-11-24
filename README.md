@@ -19,9 +19,9 @@ In this lab, we're going to go through setting up a Windows Active Directory hom
 <h2>Program walk-through:</h2>
 
 <p align="center">
-
- Download Windows ISO File<br/>
- ![image alt]("")
+ Download Windows Server & Windows 11 ISO File<br>
+ 
+![image alt](https://github.com/Light89byte/ActiveDirectoryLab/blob/de31f264acf47d739b3216919447adecbdada7f1/Windows%2011%20ISO.png)
 <br />
 <br />
 
@@ -31,6 +31,7 @@ In this lab, we're going to go through setting up a Windows Active Directory hom
 ![image alt](https://github.com/Light89byte/ActiveDirectoryLab/blob/a279c24bf5eda9a0898d14e5cc318c989b0921df/Capture.PNG)
 <br />
 <br />
+
 
 <p align="center">
  Check Connectivity on Client Windows 11 <br>
