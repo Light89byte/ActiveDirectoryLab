@@ -15,8 +15,14 @@ In this lab, we're going to go through setting up a Windows Active Directory hom
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b> (21H2)
-- <b>Windows Server 2022 </b>
+- <b>Windows Server 2019 </b>
 <h2>Program walk-through:</h2>
+
+<p align="center">
+ Download Windows ISO File<br/>
+<img src=""C:\Users\austi\Pictures\Screenshots\Win ISO Screenshot.png" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <p align="center">
  Creating Users with Powershell<br/>
