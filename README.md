@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 Welcome!
-In this lab, we're gonna go through setting up a Windows Active Directory home lab using Oracle Virtual box. This a great introduction for beginners to understand how large-scale buiness enterprises utlize setting up different user accounts on a windows environment. Even for the veteran administrators, it will be good practice to go over this refesher course in all of its intrisic detail. Let's get started... 
+In this lab, we're gonna go through setting up a Windows Active Directory home lab using Oracle Virtual box. This a great introduction for beginners to understand how large-scale enterprises utlize setting up user accounts on a windows environment. This will also be good practice to develop Active Directory & windows networking skills for those who are tyring to adopt a new skill. Even for the veteran administrators, it will be good practice to go over this refesher course until you can set it up without looking at the intructions. Let's get started... 
 <br />
 
 
@@ -53,6 +53,14 @@ In this lab, we're gonna go through setting up a Windows Active Directory home l
 
 <br />
 <br />
+
+<p align="center">
+ Sign in to "Other User" Account on Windows Client
+ 
+![image_alt](https://i.imgur.com/rL9nqOY.png)
+
+<br/>
+<br/>
 <!--
  ```diff
 - text in red
