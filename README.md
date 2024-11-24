@@ -40,6 +40,12 @@ In this lab, we're going to go through setting up a Windows Active Directory hom
 <br />
 <br />
 
+<p align="center">
+  Connect Windows Client To Domain
+ 
+![image_alt]()
+
+
 <!--
  ```diff
 - text in red
