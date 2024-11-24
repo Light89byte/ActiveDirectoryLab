@@ -20,7 +20,7 @@ In this lab, we're going to go through setting up a Windows Active Directory hom
 
 <p align="center">
  Download Windows ISO File<br/>
-<img src=""C:\Users\austi\Pictures\Screenshots\Win ISO Screenshot.png" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""https://github.com/Light89byte/ActiveDirectoryLab/blob/main/Win%20ISO%20Screenshot.png?raw=true" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
