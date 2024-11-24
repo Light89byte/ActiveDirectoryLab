@@ -20,13 +20,13 @@ In this lab, we're going to go through setting up a Windows Active Directory hom
 
 <p align="center">
  Download Windows ISO File<br/>
-<img src=""https://github.com/Light89byte/ActiveDirectoryLab/blob/main/Win%20ISO%20Screenshot.png?raw=true" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""[image alt]()" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
  Creating Users with Powershell<br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""C:\Users\austi\Pictures\Capture.PNG"" height="80%" width="80%" alt="Users with Powershell"/>
 <br />
 <br />
 
